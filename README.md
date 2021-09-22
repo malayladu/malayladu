@@ -10,7 +10,7 @@ When I am not glued on a computer screen, I spend time with my family, playing c
 
 I love writing ✏️ articles about what I learn and share with the community. You can find my blog-posts on my [website](https://malayladu.com).
 
-- 🔭 I worked on ...
+#### 🔭  I worked on
 
 [Email Subscribers](https://wordpress.org/plugins/email-subscribers/) - Email Subscribers & Newsletters – Simple and Effective Email Marketing WordPress Plugin
 
@@ -24,13 +24,13 @@ I love writing ✏️ articles about what I learn and share with the community. 
 
 I have also built various [ActiveCollab](https://activecollab.com) extenstions. You can find it [here](https://www.appsmagnet.com/activecollab-main/).
 
-And I also works with [Store Apps](https://storeapps.org), [Icegram](https://icegram.com), [Putler](https://putler.com) & [Apps Magnet](http://appsmagnet.com/)
+And I also works with [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com) & [Apps Magnet](http://appsmagnet.com/)
 
-- 💬 Ask me about ...
+#### 💬  Ask me about
 
 You can ask me about WordPress, NodeJS, Laravel, Productivity, Leadership
 
-- 📫 How to reach him: ...
+#### 📫  How to reach me
 
 You can reach me at [malay@malayladu.com](mailto:malay@malayladu.com) or on twitter at [@malayladu](https://twitter.com/malayladu)
 
