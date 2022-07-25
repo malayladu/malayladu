@@ -32,7 +32,7 @@ You can ask me about WordPress, NodeJS, Laravel, Productivity, Leadership
 
 #### 📫  How to reach me
 
-You can reach me at [malay@malayladu.com](mailto:malay@malayladu.com) or on twitter at [@malayladu](https://twitter.com/malayladu)
+You can reach me at [malayladu@gmail.com](mailto:malayladu@gmail.com) or on twitter at [@malayladu](https://twitter.com/malayladu)
 
 <!--
 **malayladu/malayladu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
