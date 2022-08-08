@@ -2,7 +2,7 @@
 
 I have **12+** years of experience in building softwares which helps to **solve real problems for real people.** I believe in **Think Big, Start With Small** and he follows this in his day to day life. I have built **25+** products which helped **10,000+** customers so far.
 
-I am a fullstack web developer and creating interactive web stuff using PHP, WordPress, Laravel, NodeJS, VueJS, Tailwind CSS etc...
+I am a fullstack web developer and creating interactive web stuff using PHP, WordPress, Laravel, NodeJS, VueJS, ReactJS, Tailwind CSS etc...
 
 Apart from all this, I am a responsible son, caring husband and a father of a loving daughter.
 
