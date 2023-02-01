@@ -24,11 +24,11 @@ I love writing ✏️ articles about what I learn and share with the community. 
 
 I have also built various [ActiveCollab](https://activecollab.com) extenstions. You can find it [here](https://www.appsmagnet.com/activecollab-main/).
 
-And I also works with [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com), [Apps Magnet](http://appsmagnet.com/) & [Freemius](https://freemius.com)
+And I worked with [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com), [Apps Magnet](http://appsmagnet.com/) & [Freemius](https://freemius.com)
 
 #### 💬  Ask me about
 
-You can ask me about WordPress, NodeJS, Laravel, Productivity, Leadership
+You can ask me about PHP, WordPress, NodeJS, Laravel, Productivity, Leadership
 
 #### 📫  How to reach me
 
