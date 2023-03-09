@@ -24,7 +24,7 @@ I love writing ✏️ articles about what I learn and share with the community. 
 
 I have also built various [ActiveCollab](https://activecollab.com) extenstions. You can find it [here](https://www.appsmagnet.com/activecollab-main/).
 
-And I worked with [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com), [Apps Magnet](http://appsmagnet.com/) & [Freemius](https://freemius.com)
+At this moment I am working with [OptinMonster](https://optinmonster.com/) as a Product Developer. In past I worked with [Freemius](https://freemius.com), [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com) & [Apps Magnet](http://appsmagnet.com/).
 
 #### 💬  Ask me about
 
