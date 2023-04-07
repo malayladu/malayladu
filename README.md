@@ -1,6 +1,6 @@
 ### Hi, I'm Malay 👋
 
-I have **14+** years of experience in building softwares which helps to **solve real problems for real people.** I believe in **Think Big, Start With Small** and he follows this in his day to day life. I have built **25+** products which helped **100,000+** users so far.
+I have **13+** years of experience in building softwares which helps to **solve real problems for real people.** I believe in **Think Big, Start With Small** and he follows this in his day to day life. I have built **25+** products which helped **100,000+** users so far.
 
 I am a fullstack web developer and creating interactive web stuff using PHP, WordPress, Laravel, NodeJS, VueJS, ReactJS, Tailwind CSS etc...
 
