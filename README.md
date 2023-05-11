@@ -1,6 +1,6 @@
 ### Hi, I'm Malay 👋
 
-I have **13+** years of experience in building softwares which helps to **solve real problems for real people.** I believe in **Think Big, Start With Small** and he follows this in his day to day life. I have built **25+** products which helped **100,000+** users so far.
+I have **13+** years of experience in building softwares which helps to **solve real problems for real people.** I believe in **Think Big, Start With Small** and he follows this in his day to day life. I have built **25+** products and being used by **100,000+** users.
 
 I am a fullstack web developer and creating interactive web stuff using PHP, WordPress, Laravel, NodeJS, VueJS, ReactJS, Tailwind CSS etc...
 
@@ -28,12 +28,13 @@ At this moment I am working with [OptinMonster](https://optinmonster.com/) as a 
 
 #### 💬  Ask me about
 
-You can ask me about PHP, WordPress, NodeJS, Laravel, Productivity, Leadership
+You can ask me about PHP, WordPress, NodeJS, Laravel, Productivity, Leadership.
 
 #### 📫  How to reach me
 
 You can reach me at [malayladu@gmail.com](mailto:malayladu@gmail.com) or on twitter at [@malayladu](https://twitter.com/malayladu)
 
+Want to learn more about me? [Click here](https://malayladu.github.io/).
 <!--
 **malayladu/malayladu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
