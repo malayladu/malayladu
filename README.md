@@ -1,6 +1,6 @@
 ### Hi, I'm Malay 👋
 
-I have **13+** years of experience in building softwares which helps to **solve real problems for real people.** I believe in **Think Big, Start With Small** and he follows this in his day to day life. I have built **25+** products and being used by **100,000+** users.
+I have **14+** years of experience in building softwares which helps to **solve real problems for real people.** I believe in **Think Big, Start With Small** and he follows this in his day to day life. I have built **25+** products and being used by **100,000+** users.
 
 I am a fullstack web developer and creating interactive web stuff using PHP, WordPress, Laravel, NodeJS, VueJS, ReactJS, Tailwind CSS etc...
 
@@ -24,7 +24,7 @@ I love writing ✏️ articles about what I learn and share with the community. 
 
 I have also built various [ActiveCollab](https://activecollab.com) extenstions. You can find it [here](https://www.appsmagnet.com/activecollab-main/).
 
-At this moment I am working with [OptinMonster](https://optinmonster.com/) as a Product Developer. In past I worked with [Freemius](https://freemius.com), [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com) & [Apps Magnet](http://appsmagnet.com/).
+I am working with [GravityKit](https://gravitykit.com) as a Product Developer. In past I worked with [OptinMonster](https://optinmonster.com/), [Freemius](https://freemius.com), [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com) & [Apps Magnet](http://appsmagnet.com/).
 
 #### 💬  Ask me about
 
@@ -35,6 +35,7 @@ You can ask me about PHP, WordPress, NodeJS, Laravel, Productivity, Leadership.
 You can reach me at [malayladu@gmail.com](mailto:malayladu@gmail.com) or on twitter at [@malayladu](https://twitter.com/malayladu)
 
 Want to learn more about me? [Click here](https://malayladu.github.io/).
+
 <!--
 **malayladu/malayladu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
