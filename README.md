@@ -1,3 +1,6 @@
+![Malay Ladu](https://github.com/user-attachments/assets/27ef481b-a0f1-41fa-bfd1-696724be2ac3)
+
+
 ### Hi, I'm Malay 👋  
 
 I bring over **14 years** of experience in creating software solutions that address **real problems for real people**. My philosophy revolves around **thinking big, starting small**, and consistently applying this approach in my daily life. I've had the privilege of developing **25+ products** that are actively used by more than **100,000** users.
