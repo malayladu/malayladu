@@ -1,13 +1,12 @@
-![Malay Ladu](https://github.com/user-attachments/assets/27ef481b-a0f1-41fa-bfd1-696724be2ac3)
-
+![Malay-Ladu](https://github.com/user-attachments/assets/39759896-6fab-482f-be7a-068866bb4811)
 
 ### Hi, I'm Malay 👋  
 
-I bring over **14 years** of experience in creating software solutions that address **real problems for real people**. My philosophy revolves around **thinking big, starting small**, and consistently applying this approach in my daily life. I've had the privilege of developing **25+ products** that are actively used by more than **100,000** users.
+I bring over **15 years** of experience in creating software solutions that address **real problems for real people**. My philosophy revolves around **thinking big, starting small**, and consistently applying this approach in my daily life. I've had the privilege of developing **25+ products** that are actively used by more than **100,000** users.
 
-As a Full-Stack web developer, I specialize in crafting interactive web applications using a variety of technologies, including PHP, WordPress, Laravel, NodeJS, VueJS, ReactJS, and Tailwind CSS.
+As a Full-Stack web developer, I specialize in crafting interactive web applications using a variety of technologies, including PHP, WordPress, Laravel, NodeJS, ReactJS, VueJS, jQuery and Tailwind CSS.
 
-Beyond my work in the tech world, I'm a responsible son, a caring husband, and the proud father of loving two daughters. When I'm not fixated on a computer screen, you can find me spending quality time with my family, engaging in cricket matches, on the badminton court, cycling, and making a valiant effort not to become the world's worst dancer. 😉
+When I'm not fixated on a computer screen, you can find me spending quality time with my family, engaging in cricket matches, on the badminton court, cycling, and making a valiant effort not to become the world's worst dancer. 😉
 
 I have a passion for writing, and I enjoy sharing my insights and knowledge through articles, which you can find on my [website](https://malayladu.com).
 
@@ -25,7 +24,7 @@ I have a passion for writing, and I enjoy sharing my insights and knowledge thro
 
 I have also built various [ActiveCollab](https://activecollab.com) extensions. You can find it [here](https://www.appsmagnet.com/activecollab-main/).
 
-Currently, I'm dedicated to my role as a Product Developer at [GravityKit](https://gravitykit.com). In the past, I've collaborated with notable companies such as [OptinMonster](https://optinmonster.com/), [Freemius](https://freemius.com), [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com) & [Apps Magnet](http://appsmagnet.com/).
+I've collaborated with notable companies such as [GravityKit](https://gravitykit.com), [OptinMonster](https://optinmonster.com/), [Freemius](https://freemius.com), [Icegram](https://icegram.com), [Store Apps](https://storeapps.org), [Putler](https://putler.com) & [Apps Magnet](http://appsmagnet.com/).
 
 #### 💬  Feel free to ask me about
 
